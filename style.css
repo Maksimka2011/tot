@@ -13,3 +13,13 @@ body {
 table{
     font-size: 20px;
 }
+div{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.ttt{
+    border: 5px solid red;
+    border-radius: 30px;
+    background-color: darkblue;
+}
